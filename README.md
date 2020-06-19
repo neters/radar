@@ -3,7 +3,7 @@
  一款基于java语言，使用Springboot + Mongodb + Groovy + Es等框架搭建的轻量级实时风控引擎，适用于反欺诈应用场景，极简的配置，真正做到了开箱即用。     
  通过学习本项目能快速了解**风险的定义**，进而**量化风险** ，最后达到**集中管理风险**的目的。   
 A real-time risk analysis engine,which can update risk rule in real-time and make it effective immediately.  
-It applies to the anti-fraud application perfectly. 
+It applies to the anti-fraud application perfectly. .
 The project code called Radar, like the code, monitor the transaction at the back.
 
 ## 项目特点
